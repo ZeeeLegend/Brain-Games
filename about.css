@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+  
+  }
+  
+  body{
+    background: rgb(18, 24, 40);
+  }
+  
+  h1{
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 80px;
+  }
+  .brain-games{
+    font-size: 1.5rem;
+    margin: 30px;
+    color: blue;
+  }
+  
+  h2{
+    font-size: 2.5rem;
+    margin-left: 7px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-top: 50px;
+    color: white;
+  }
+
+  .sub-header2{
+    margin-top: 50px;
+    margin-bottom: 15px;
+  }
+
+  .sub-header-info{
+    font-size: 1.20rem;
+    color: white;
+    margin: 15px;
+    margin-bottom: 6rem;
+  }
+
+  .info-of-team{
+    font-size: 22.5px;
+    color: white;
+    margin-bottom: 40px;
+  }
+
+  .yahya{
+    font-size: 1.5rem;
+    margin: 15px;
+    color: red;
+  }
+
+  .rayan{
+    font-size: 1.5rem;
+    margin: 30px;
+    color: teal;
+  }
+
+  .moez{
+    font-size: 1.5rem;
+    margin: 30px;
+    color: greenyellow;
+  }
+
+ 
+
+  .zaid{
+    font-size: 1.5rem;
+    margin: 30px;
+    color: orange;
+  }
+  nav{
+    padding: 15px;
+    left: 0;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    background-color: rgb(11, 15, 25);
+    
+  }
+  
+  button{
+    padding: 0;
+    margin: 0;
+    height: 96px;
+    width: 240px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgba(47, 47, 56);
+    border: none;
+  }
+  
+  a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: 	white;
+    text-decoration: none;
+  }
+  
+  nav a{
+    color: white;
+    transition: 0.25s ease-in-out 0s;
+  
+  }
+
+  nav a:hover{
+    color: rgb(3, 3, 109);
+    transition: 0.25s ease-in-out 0s;
+  }
+  
+  button:hover{
+    background-color: rgb(80, 80, 95);
+  }
